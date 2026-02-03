@@ -1,4 +1,4 @@
-# Hi, I'm Jayraj 👋  
+# Hi, I'm Jayraj 👨‍💻 
 
 🎓 Computer Science & Business Systems (CSBS) Student  
 📊 Aspiring Data Scientist | Python Learner  
