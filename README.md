@@ -1,16 +1,30 @@
-## Hi there 👋
+# Hi, I'm Jayraj 👋  
 
-<!--
-**JayrajJagdale/JayrajJagdale** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Computer Science & Business Systems (CSBS) Student  
+📊 Aspiring Data Scientist | Python Learner  
+💡 Passionate about Data, AI, and Problem Solving  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 About Me  
+- Currently learning **Python, SQL, and Data Science**  
+- Interested in **Machine Learning & Data Analysis**  
+- Building projects to gain **real-world experience**  
+- Focused on growing skills step-by-step  
+
+---
+
+## 🛠 Skills  
+- **Languages:** Python, SQL  
+- **Concepts:** Data Science, Machine Learning Basics  
+- **Tools:** VS Code, Git, GitHub  
+
+---
+
+## 📫 Connect With Me  
+- GitHub: https://github.com/JayrajJagdale
+- LinkedIn: https://linkedin.com/in/jayrajjagdale  
+
+---
+
+⭐ *"Learning daily. Building skills. Growing step by step."*
