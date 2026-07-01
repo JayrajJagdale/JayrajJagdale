@@ -43,12 +43,12 @@
 ### 📊 GitHub Stats
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=jayrajjagdale&show_icons=true&theme=radical" alt="jayrajjagdale" width="48%"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=jayrajjagdale&theme=radical" alt="jayrajjagdale" width="48%"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=JayrajJagdale&show_icons=true&theme=radical" alt="jayrajjagdale" width="48%"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=JayrajJagdale&theme=radical" alt="jayrajjagdale" width="48%"/>
 </p>
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jayrajjagdale&show_icons=true&locale=en&layout=compact&theme=radical" alt="jayrajjagdale" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JayrajJagdale&show_icons=true&locale=en&layout=compact&theme=radical" alt="jayrajjagdale" />
 </p>
 
 ---
