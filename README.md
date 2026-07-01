@@ -6,7 +6,7 @@
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&label=Profile%20views&color=0e75b6&style=flat" alt="YOUR_GITHUB_USERNAME" />
+  <img src="https://komarev.com/ghpvc/?username=jayrajjagdale&label=Profile%20views&color=0e75b6&style=flat" alt="jayrajjagdale" />
 </p>
 
 ---
@@ -17,8 +17,7 @@
 - 🌱 Learning **LangChain, LangGraph, Vector Databases, and Multi-Agent Systems**
 - 🛠️ Building projects: RAG chatbots, ML classifiers, AI agent apps
 - 💼 Preparing for campus placements — targeting AI/GenAI Engineering roles
-- 📫 Reach me at: **YOUR_EMAIL@example.com**
-- ⚡ Fun fact: I also make tech content on Instagram!
+- 📫 Reach me at: **work.jayrajjagdale@gmail.com**
 
 ---
 
@@ -36,9 +35,7 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL" alt="MySQL" width="40" height="40"/>&nbsp;
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/fastapi/fastapi-original.svg" title="FastAPI" alt="FastAPI" width="40" height="40"/>&nbsp;
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" title="Docker" alt="Docker" width="40" height="40"/>&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" title="AWS" alt="AWS" width="40" height="40"/>&nbsp;
   <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" title="Git" alt="Git" width="40" height="40"/>&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" title="Linux" alt="Linux" width="40" height="40"/>&nbsp;
 </p>
 
 ---
@@ -46,12 +43,12 @@
 ### 📊 GitHub Stats
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=radical" alt="YOUR_GITHUB_USERNAME" width="48%"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=radical" alt="YOUR_GITHUB_USERNAME" width="48%"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=jayrajjagdale&show_icons=true&theme=radical" alt="jayrajjagdale" width="48%"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=jayrajjagdale&theme=radical" alt="jayrajjagdale" width="48%"/>
 </p>
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&show_icons=true&locale=en&layout=compact&theme=radical" alt="YOUR_GITHUB_USERNAME" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jayrajjagdale&show_icons=true&locale=en&layout=compact&theme=radical" alt="jayrajjagdale" />
 </p>
 
 ---
@@ -59,8 +56,8 @@
 ### 🌐 Connect with Me
 
 <p align="left">
-  <a href="https://linkedin.com/in/YOUR_LINKEDIN" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="YOUR_LINKEDIN" height="30" width="30" /></a>&nbsp;
-  <a href="https://instagram.com/YOUR_INSTAGRAM" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="YOUR_INSTAGRAM" height="30" width="30" /></a>&nbsp;
-  <a href="https://leetcode.com/YOUR_LEETCODE" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/leetcode.svg" alt="YOUR_LEETCODE" height="30" width="30" /></a>&nbsp;
-  <a href="mailto:YOUR_EMAIL@example.com" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/gmail.svg" alt="email" height="30" width="30" /></a>&nbsp;
+  <a href="https://linkedin.com/in/YOUR_LINKEDIN" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="www.linkedin.com/in/jayrajjagdale" height="30" width="30" /></a>&nbsp;
+</a>&nbsp;
+  <a href="https://leetcode.com/YOUR_LEETCODE" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/leetcode.svg" alt="https://leetcode.com/u/JAYRAJ_JAGDALE/" height="30" width="30" /></a>&nbsp;
+  <a href="mailto:work.jayrajjagdale@gmail.com" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/gmail.svg" alt="email" height="30" width="30" /></a>&nbsp;
 </p>
