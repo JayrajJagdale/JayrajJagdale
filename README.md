@@ -44,7 +44,7 @@
 
 <p align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=JayrajJagdale&show_icons=true&theme=radical" alt="JayrajJagdale" width="48%"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=JayrajJagdale&theme=radical" alt="JayrajJagdale" width="48%"/>
+  <img src="https://streak-stats.demolab.com/?user=JayrajJagdale&theme=radical" alt="JayrajJagdale" width="48%"/>
 </p>
 
 <p align="left">
@@ -56,8 +56,7 @@
 ### 🌐 Connect with Me
 
 <p align="left">
-  <a href="https://linkedin.com/in/jayrajjagdale" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="Linkedin" height="30" width="30" /></a>&nbsp;
-</a>&nbsp;
-  <a href="https://leetcode.com/JAYRAJ_JAGDALE" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/leetcode.svg" alt="Leetcode" height="30" width="30" /></a>&nbsp;
+  <a href="https://linkedin.com/in/jayrajjagdale" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="www.linkedin.com/in/jayrajjagdale" height="30" width="30" /></a>&nbsp;
+  <a href="https://leetcode.com/u/JAYRAJ_JAGDALE/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/leetcode.svg" alt="https://leetcode.com/u/JAYRAJ_JAGDALE/" height="30" width="30" /></a>&nbsp;
   <a href="mailto:work.jayrajjagdale@gmail.com" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/gmail.svg" alt="email" height="30" width="30" /></a>&nbsp;
 </p>
