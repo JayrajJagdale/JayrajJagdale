@@ -59,7 +59,7 @@
 ### 🌐 Connect with Me
 
 <p align="left">
-  <a href="https://linkedin.com/in/jayrajjagdale" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="www.linkedin.com/in/jayrajjagdale" height="30" width="30" /></a>&nbsp;
-  <a href="https://leetcode.com/u/JAYRAJ_JAGDALE/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/leetcode.svg" alt="https://leetcode.com/u/JAYRAJ_JAGDALE/" height="30" width="30" /></a>&nbsp;
-  <a href="mailto:work.jayrajjagdale@gmail.com" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/gmail.svg" alt="email" height="30" width="30" /></a>&nbsp;
+  <a href="https://linkedin.com/in/jayrajjagdale" target="blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>&nbsp;
+  <a href="https://leetcode.com/u/JAYRAJ_JAGDALE/" target="blank"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode"/></a>&nbsp;
+  <a href="mailto:work.jayrajjagdale@gmail.com" target="blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>&nbsp;
 </p>
