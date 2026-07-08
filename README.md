@@ -1,27 +1,18 @@
 <h1 align="center">Hi 👋, I'm Jayraj</h1>
-<h3 align="center">Aspiring AI Engineer | GenAI Engineer</h3>
 
 <p align="center">
-  🎓 Third-year Engineering Student &nbsp;|&nbsp; 🤖 Building AI/GenAI Projects &nbsp;|&nbsp; 🐍 Python
+  — I am building a life of purpose, growth, and impact.<br>
+  Where I learn beyond the classroom, create with curiosity, and move with quiet consistency.
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=0E75B6&center=true&vCenter=true&width=600&lines=Aspiring+AI+Engineer;GenAI+%7C+LLMs+%7C+RAG+%7C+AI+Agents;Building+in+Public+%F0%9F%9A%80" alt="Typing SVG" />
+  Currently pursuing B.Tech in CSBS at KIT, Class of 2028.<br>
+  Every day, I evolve as a tech enthusiast, a self-driven learner, and a grounded mind who builds silently and grows relentlessly.
 </p>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=jayrajjagdale&label=Profile%20views&color=0e75b6&style=flat" alt="jayrajjagdale" />
 </p>
-
----
-
-### 🚀 About Me
-
-- 🔭 Currently working through a **6-month AI/GenAI Engineer roadmap** — ML fundamentals → Deep Learning → LLMs → RAG → AI Agents
-- 🌱 Learning **LangChain, LangGraph, Vector Databases, and Multi-Agent Systems**
-- 🛠️ Building projects: RAG chatbots, ML classifiers, AI agent apps
-- 💼 Preparing for campus placements — targeting AI/GenAI Engineering roles
-- 📫 Reach me at: **work.jayrajjagdale@gmail.com**
 
 ---
 
