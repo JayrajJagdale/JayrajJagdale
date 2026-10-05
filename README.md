@@ -63,54 +63,6 @@ philosophy: "Learn → Build → Break → Fix → Repeat"
 
 ---
 
-## 🔄 My Workflow (it's a loop, not a line)
-
-```mermaid
-flowchart LR
-    A([💡 Idea]) --> B[📚 Learn]
-    B --> C[🛠️ Build]
-    C --> D[💥 Break]
-    D --> E[🔧 Fix]
-    E --> F{Good enough?}
-    F -- No --> B
-    F -- Yes --> G([🚀 Ship & Share])
-    G --> A
-```
-
----
-
-## 📊 Task Manager
-
-```text
- Process               Status       Progress
- ───────────────────────────────────────────────────────
- flutter.exe           Running      ████████░░  80%
- dsa_grind.exe         Running      ██████░░░░  60%
- git_github.exe        Running      ███████░░░  70%
- projects.exe          Building     █████░░░░░  50%
- placement_prep.exe    Loading...   ████░░░░░░  40%
- consistency.exe       Always on    ██████████  ∞
-```
-
-> 📝 Edit the bars above anytime to match your real progress.
-
----
-
-## 📱 Running: `flutter.exe`
-
-```text
-> flutter create my_next_project
-> flutter run
-
-✓ Learning UI
-✓ Understanding widgets
-✓ Exploring state management
-✓ Building practical apps
-✓ Improving one project at a time
-```
-
----
-
 ## 🛠️ My Toolbox
 
 <p align="left">
@@ -143,53 +95,6 @@ flowchart LR
 </a>
 
 </div>
-
----
-
-## 🐍 Contribution Snake
-
-<div align="center">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/JayrajJagdale/JayrajJagdale/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/JayrajJagdale/JayrajJagdale/output/github-snake.svg" />
-  <img alt="Contribution snake" src="https://raw.githubusercontent.com/JayrajJagdale/JayrajJagdale/output/github-snake.svg" />
-</picture>
-
-</div>
-
----
-
-## 🎮 Hidden Files
-
-<details>
-<summary><b>📁 Click to open <code>secret_terminal.sh</code></b></summary>
-
-```bash
-$ whoami
-jayraj
-
-$ cat goals.txt
-1. Crack placements at top companies
-2. Ship apps people actually use
-3. Never stop learning
-
-$ ./motivation.sh
-"Consistency beats intensity."
-Process exited with code 0 ✅
-```
-
-</details>
-
-<details>
-<summary><b>🧪 Click to see today's mission</b></summary>
-
-- [ ] Solve at least 1 DSA problem
-- [ ] Write some Flutter code
-- [ ] Push a commit
-- [ ] Learn one new thing
-
-</details>
 
 ---
 
